@@ -34,5 +34,6 @@ console.log(quarter, dime, nickel, penny);
 // 3.
 let letters = "qwertyuiop";
 // 4.
-console.log(letters.length);
-console.log(letters[9]);
+// console.log(letters.length);
+// console.log(letters[9]);
+console.log(letters.length, [9]);
